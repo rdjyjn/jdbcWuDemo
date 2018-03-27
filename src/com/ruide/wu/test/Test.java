@@ -13,5 +13,6 @@ public class Test {
 		for(Dept d:list){
 			System.out.println(d.getDname());
 		}
+		System.out.println("ceshi");
 	}
 }
