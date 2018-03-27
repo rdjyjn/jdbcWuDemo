@@ -13,6 +13,10 @@ public class Test {
 		for(Dept d:list){
 			System.out.println(d.getDname());
 		}
+		/*
+		 * 测试，测试 ！
+		 * */
 		System.out.println("ceshi");
+		System.out.println("二次测试");
 	}
 }
