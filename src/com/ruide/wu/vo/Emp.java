@@ -22,4 +22,14 @@ public class Emp {
 	public void setJob(String job) {
 		this.job = job;
 	}
+	public Emp(int emono, String ename, String job) {
+		super();
+		this.emono = emono;
+		this.ename = ename;
+		this.job = job;
+	}
+	public Emp() {
+		super();
+	}
+	
 }
